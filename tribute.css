@@ -1,0 +1,22 @@
+#title {
+text-align: center;
+font-family: verdana;
+}
+#img-div {
+    text-align: center;
+}
+#main {
+    background-color: #EEEEEE;
+    font-size: 1.1em;
+}
+#tribute-info {
+    margin: 3% 30% 0% 30%;
+}
+#footer {
+    margin: 8% 20% 0% 20%; 
+    font-size: 1.15em;
+}
+#img-caption {
+    margin: 2% 0% 5% 0%; 
+    font-size: 1em;
+}
